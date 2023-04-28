@@ -1,2 +1,2 @@
-# Improved-Minecraft-Language
+# Improved Minecraft Language
 Improves the Minecraft language with AI writing.
