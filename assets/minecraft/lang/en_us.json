@@ -2172,7 +2172,7 @@
   "command.expected.separator": "Expected whitespace to end one argument, but found trailing data",
   "command.failed": "An unexpected error occurred trying to execute that command",
   "command.unknown.argument": "Incorrect argument for command",
-  "command.unknown.command": "Unknown or incomplete command, see below for error",
+  "command.unknown.command": "Your command was not recognized. Please consult the error message for further information.",
   "commands.advancement.advancementNotFound": "No advancement was found by the name '%1$s'",
   "commands.advancement.criterionNotFound": "The advancement %1$s does not contain the criterion '%2$s'",
   "commands.advancement.grant.criterion.to.many.failure": "Couldn't grant criterion '%s' of advancement %s to %s players as they already have it",
